@@ -1,0 +1,24 @@
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+}
+
+p{
+    font-size: 35px;
+}
+.quotes_button
+{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    position: relative;
+    transition: all 0.5s ease-in-out;
+}
+
+.quotes_button:hover
+{
+    background-color: green;
+    transform: scale(1.1);
+    
+}
